@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-decoration: underline;
+  }
+  
+  #stack_list li {
+    border: 2px black solid;
+    background: lightgray;
+    margin-top: 2px;
+    width: 20%;
+    text-align: center;
+    font-size: 20pt;
+    list-style-type: none;
+  }
+  
+  #stack_list li:first-child {
+    background: lightcyan;
+  }
